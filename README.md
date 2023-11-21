@@ -40,6 +40,8 @@ Spring Boot REST CRUD APIs
         ◦ Configure default page sizes for REST APIs
         ◦ Investigate HATEOAS compliant REST responses
 
+        ![](output.png)
+
     
         
       
