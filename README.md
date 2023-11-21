@@ -41,5 +41,5 @@ Spring Boot REST CRUD APIs
         ◦ Investigate HATEOAS compliant REST responses
         
         
-        ![asd](https://github.com/refikorkunarslan/spring-boot-rest/assets/32647679/3d2c9cfd-4576-4751-b41b-7878ba6a5cbc)
+      
 
