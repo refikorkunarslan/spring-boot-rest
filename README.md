@@ -39,6 +39,8 @@ Spring Boot REST CRUD APIs
         ◦ Apply pagination and sorting to REST API endpoints
         ◦ Configure default page sizes for REST APIs
         ◦ Investigate HATEOAS compliant REST responses
+
+        <img src="output.png">
         
       
 
