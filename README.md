@@ -39,7 +39,8 @@ Spring Boot REST CRUD APIs
         ◦ Apply pagination and sorting to REST API endpoints
         ◦ Configure default page sizes for REST APIs
         ◦ Investigate HATEOAS compliant REST responses
-        ![output](https://github.com/refikorkunarslan/spring-boot-rest/assets/32647679/fd3c04fc-8cfd-4477-9eca-17af2b981f2f)
+        
+        ![output](https://github.com/refikorkunarslan/spring-boot-rest/output)
 
      
       
